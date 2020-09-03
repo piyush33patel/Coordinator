@@ -1,7 +1,7 @@
 package com.example.coordinator;
 
 public class Constants {
-    public static final String ROOT_URL = "https://websiteasofjunetwelve.000webhostapp.com/";
+    private static final String ROOT_URL = "/";             /*Website Unavailable*/
     public static final String URL_FETCH_CULTURAL = ROOT_URL + "UIETApp/FetchCultural.php";
     public static final String URL_FETCH_SPORTS = ROOT_URL + "UIETApp/FetchSports.php";
     public static final String URL_FETCH_TECHNICAL = ROOT_URL + "UIETApp/FetchTechnical.php";
